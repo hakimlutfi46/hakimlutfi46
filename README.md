@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, my name is Muhammad Lutfi Hakim.<br>I am a student majoring in Information Technology
-
+Hi, my name is Muhammad Lutfi Hakim.<br>I am a student majoring in Information Technology :)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hakimlutfi_) 
