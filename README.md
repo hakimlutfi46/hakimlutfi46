@@ -14,6 +14,8 @@ I am a student majoring in Information Technology with a passion for mobile and 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hakimlutfi46&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimlutfi46&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
+[![An image of @hakimlutfi46's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hakimlutfi46)](https://holopin.io/@hakimlutfi46)
+
 [![](https://visitcount.itsvg.in/api?id=hakimlutfi46&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
