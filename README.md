@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 Hi, my name is Muhammad Lutfi Hakim.
-I am a student majoring in Information Technology with a passion for mobile and web development. Currently, I am diving deep into the fascinating world of AI and Machine Learning, expanding my skills and knowledge in these cutting-edge technologies.
+I am a student majoring in Information Technology with a passion for mobile development. Currently, I am diving deep into the fascinating world of AI and Machine Learning, expanding my skills and knowledge in these cutting-edge technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hakimlutfi46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lutfi-hakim-58b8a124a/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/hakimlutfi46_)
